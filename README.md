@@ -1,7 +1,7 @@
 ## Welcome to Tim's Reading Notes!
 
 > Tim is the **greatest**
--Barack Obama
+-~~Barack Obama~~
 
 If you want to reach me, you can find me at [my email](mailto:tim.smith2814@gmail.com).
 
