@@ -21,7 +21,7 @@ Growth mindeset is a way of thinking (and a way of life!) that allows people to 
 - Look to my peers for inspiration
 - See every challenge as a new lesson (free unlimited tuition from mother nature)
 
+<img src="https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg" width="200" />
 
-![tim-smith](https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg)
 
 This is my face.
