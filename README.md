@@ -24,4 +24,4 @@ Growth mindeset is a way of thinking (and a way of life!) that allows people to 
 <img src="https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg" width="200" />
 
 
-This is my face.
+This is my face. 🍕
