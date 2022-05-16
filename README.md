@@ -1,5 +1,8 @@
 ## Welcome to Tim's Reading Notes!
 
+> Tim is the **greatest**
+-Barack Obama
+
 If you want to reach me, you can find me at [my email](mailto:tim.smith2814@gmail.com).
 
 Here you can find my musings on my reading and discussions from Code 102.
