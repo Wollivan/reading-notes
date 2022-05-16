@@ -1,6 +1,7 @@
 ## Welcome to Tim's Reading Notes!
 
 ![tim-smith](https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg)
+
 This is my face.
 
 If you want to reach me, you can find me at [my email](mailto:tim.smith2814@gmail.com).
