@@ -1,9 +1,5 @@
 ## Welcome to Tim's Reading Notes!
 
-![tim-smith](https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg)
-
-This is my face.
-
 If you want to reach me, you can find me at [my email](mailto:tim.smith2814@gmail.com).
 
 Here you can find my musings on my reading and discussions from Code 102.
@@ -22,8 +18,7 @@ Growth mindeset is a way of thinking (and a way of life!) that allows people to 
 - Look to my peers for inspiration
 - See every challenge as a new lesson (free unlimited tuition from mother nature)
 
-## Lab Notes
 
-## Discussion Notes
+![tim-smith](https://user-images.githubusercontent.com/91621088/168577408-db187892-99e0-4c53-9434-6897b9211a3e.jpeg)
 
-## Grading Notes
+This is my face.
