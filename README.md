@@ -1,8 +1,32 @@
-# reading-notes
+# Reading Notes
 
-This is my reading notes
+These are my reading notes.
 
-- This
-- That
+I have just learned about markdown!
+
+Here are some cool things you can do:
+
+- Lists
+- Headings
 - The other
+- Code blocks
+  - Nested list items
+  - Nested codeblocks
+- Links
+- Table
+- Quotes
+- Images
+- Emphasise text
+- Checklists
+- Emojis
+- Internal links
+
+Here are some cool things we can make with markdown:
+
+- Dictionaries
+- Documentation
+- To do lists
+- Articles
+- Recipes
+- Instructions/Guides
 
