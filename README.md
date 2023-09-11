@@ -30,3 +30,4 @@ Here are some cool things we can make with markdown:
 - Recipes
 - Instructions/Guides
 
+[Class 01](https://wollivan.github.io/reading-notes/class-01)
