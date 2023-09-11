@@ -1,0 +1,3 @@
+# Class 01 Notes
+
+In class one we learned...
